@@ -15,7 +15,6 @@
 - 🎓 **CS Graduate** from **NIT Karnataka** (2024)
 - 💼 **Senior Software Engineer** at **HCLTech**, Bangalore
 - ☁️ **4x AWS Certified** - AI Practitioner | ML Engineer | Data Engineering | Cloud Practitioner
-- 🏆 **JEE Mains AIR 804** | **600+ DSA Problems Solved**
 - 🏒 **Gold Medalist** in Hockey (Cluster & Command Level)
 
 ---
